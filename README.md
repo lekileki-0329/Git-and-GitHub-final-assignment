@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Week-8-Peerlabas        |   Revenue Calculator          | https://github.com/lekileki-0329/Week-8-Peerlabas
+| 2 |  Week-12-Peerlabas       |    Shifting Images            | https://github.com/lekileki-0329/Week-12-Peerlabas    |
+| 3 |  Week-11-PeerLabas          |  Evaluation Data         | https://github.com/lekileki-0329/Week-11-PeerLabas      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
